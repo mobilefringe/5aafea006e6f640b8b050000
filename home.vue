@@ -9,7 +9,7 @@
         					<div class="" v-for="banner in banners" v-if="banners">
         						<div class="home_banner" v-bind:style="{ backgroundImage: 'url(' + banner.image_url + ')' }">
         						    <div class="home_banner_content" v-if="banner.name && banner.description">
-        						        <h1>EXPLORE</h1>
+                                    <h1 class="animated bounce">Tourism</h1>
         						        <p>{{ banner.description }}</p>
         						    </div>   
         						</div>
