@@ -9,9 +9,9 @@
 				        </div>	
 					</div>
 					<div class="col-xs-12 col-md-6 mobile_header">
-					    <div class="property_logo">
+					    <div class="property_logo center-block">
 							<router-link to="/">
-							    <img src="//codecloud.cdn.speedyrails.net/sites/5aafea006e6f640b8b050000/image/png/1521479287000/logo.png" alt="Property Logo"/>
+							    <img src="//codecloud.cdn.speedyrails.net/sites/5aafea006e6f640b8b050000/image/png/1519154972000/mm_logo.png" alt="Property Logo"/>
 						    </router-link>
 						</div>
 						<div class="mobile_menu_icon visible_phone" @click="showMenu = !showMenu">
