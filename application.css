@@ -231,14 +231,13 @@ ul.options-list li.highlighted {
 
 /* *** HEADER *** */
 .header_logo {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-align: left;
-    -webkit-align-items: left;
-    -ms-flex-align: left;
-    align-items: left;
+     left: 50%;
+    margin-left: -500px;
+    background:url(images/logo.png) no-repeat;
+    width:1000px;
+    height:200px;
+}
+
     .language_select {
         padding: 5px 0;
         font-size: 0.875rem;
