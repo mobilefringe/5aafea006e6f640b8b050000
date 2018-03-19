@@ -454,7 +454,7 @@ footer {
             text-transform: uppercase;
         }
         :-moz-placeholder { /* Firefox 18- */
-            font-family: 'Didot-Bold';
+            font-family: 'Roboto-Bold';
             font-size: 1.125rem;
             line-height: 2.125rem;
             color: #FFF;   
@@ -490,7 +490,7 @@ footer {
             float: right;
             border: 1px solid transparent;
             background: rgba(0,0,0,0.5);
-            font-family: 'Didot-Bold';
+            font-family: 'Roboto-Bold';
             font-size: 1.125rem;
             line-height: 2.125rem;
             color: #FFF;   
