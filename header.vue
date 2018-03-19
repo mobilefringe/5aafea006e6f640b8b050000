@@ -9,7 +9,7 @@
 				        </div>	
 					</div>
 					<div class="col-xs-12 col-md-6 mobile_header">
-					    <div class="property_logo center-block">
+					    <div class="property_logo">
 							<router-link to="/">
 							    <img src="//codecloud.cdn.speedyrails.net/sites/5aafea006e6f640b8b050000/image/png/1521479287000/logo.png" alt="Property Logo"/>
 						    </router-link>
