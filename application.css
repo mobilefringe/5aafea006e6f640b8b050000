@@ -447,7 +447,7 @@ footer {
             text-transform: uppercase;
         }
         :-ms-input-placeholder { /* IE 10+ */
-            font-family: 'Didot-Bold';
+            font-family: 'Roboto-Bold';
             font-size: 1.125rem;
             line-height: 2.125rem;
             color: #FFF;   
