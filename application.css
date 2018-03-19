@@ -59,7 +59,7 @@ h4 {
 }
 h5 {
     margin: 0;
-    font-family: 'Didot-Bold';
+    font-family: 'Roboto-Bold';
     font-size: 1.5rem;
     line-height: 2.5rem;
 }
@@ -411,7 +411,7 @@ footer {
             color: inherit;
         }
         h3 {
-            font-family: 'Didot-Italic';
+            font-family: 'Roboto-Italic';
             letter-spacing: 1.6px;
         }
         .newsletter_desc {
@@ -433,14 +433,14 @@ footer {
             color: $primary;
         }
         ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
-            font-family: 'Didot-Bold';
+            font-family: 'Roboto-Bold';
             font-size: 1.125rem;
             line-height: 2.125rem;
             color: #FFF;   
             text-transform: uppercase;
         }
         ::-moz-placeholder { /* Firefox 19+ */
-            font-family: 'Didot-Bold';
+            font-family: 'Roboto-Bold';
             font-size: 1.125rem;
             line-height: 2.125rem;
             color: #FFF;   
