@@ -29,27 +29,27 @@ html {
 }
 body {
     color: #4D4D4D;
-    font-family: $font_family;
+    font-family: Roboto;
     font-size: 1.125rem;
     line-height: 1.8rem;
     // overflow-x: hidden;
     transition: all 0.3s ease;
 }
 h1 {
-    font-family: 'Didot-Bold';
+    font-family: 'Roboto';
     font-size: 4.85rem;
     line-height: 6.1875rem;
     color: #FFF;
 }
 h2 {
     margin: 0;
-    font-family: 'Didot-Bold';
+    font-family: 'Roboto';
     font-size: 3.5rem;
     line-height: 4.625rem;
 }
 h3 {
     margin: 0;
-    font-family: 'Didot-Bold';
+    font-family: 'Roboto';
     font-size: 2.25rem;
     line-height: 2.875rem;
 }
